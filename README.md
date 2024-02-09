@@ -18,7 +18,7 @@ This MATLAB script determines the stability of a transfer function, its steady-s
 3. Run the script.
 
 ## Notes ##
-- The `numerator` and `denominator` are defined using only the coefficients of the $s$-variable.
+- The `numerador` and `denominador` are defined using only the coefficients of the $s$-variable.
 - The `clear` function is used at the start of the program, make sure to save any previous variables before running the script.
 - The final value theorem is used to compute the steady-state errors.
 - The following transfer functions are already included in the script:
